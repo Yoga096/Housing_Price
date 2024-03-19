@@ -1,2 +1,2 @@
 # Housing_Price
-To get the data for research purpose.
+To analyze the data for researching purpose.
